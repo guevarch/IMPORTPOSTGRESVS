@@ -1,5 +1,3 @@
-## Code to locally import data from csv to postgresl via vs code - python. 
-
 # PostgreSQL Data Import Using Python
 
 This repository includes a Python script to import data from CSV files into a PostgreSQL database. The script uses `psycopg2` to connect to the PostgreSQL instance and perform SQL operations.
